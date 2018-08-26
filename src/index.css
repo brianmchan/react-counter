@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
+h1, .counter {
   text-align: center;
+}
+
+button {
+  width: 70px;
 }
